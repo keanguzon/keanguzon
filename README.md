@@ -1,11 +1,3 @@
-#### 💼 What I'm Doing
-- 🏢 **Junior System Administrator** @ Wilcon Depot (Head Office)
-  - Linux administration, remote infrastructure (Termius, PuTTY, RealVNC, VMware), and Bash scripting.
-- 🛠️ Building full-stack web tools with **Next.js**, **SvelteKit**, and **Supabase**.
-- ⚡ Prototyping IoT & embedded hardware projects using **ESP32**, **Arduino**, and **C++**.
-
----
-
 ### 💻 Tech Stack:
 
 #### Systems & Infrastructure
@@ -42,22 +34,37 @@
 
 ---
 
-#### 🚀 Featured Projects
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keanguzon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=94a3b8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanguzon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" />
+</p>
+
+---
+
+### 💼 About Me
+
+Hi, I'm **Kean Guzon** 👋 — Junior System Administrator at Wilcon Depot & Computer Engineering graduate from Adamson University. Based in Cavite, Philippines.
+
+I work across Linux systems administration, embedded hardware, and full-stack web applications.
+
+- **Wilcon Depot Inc. (HO)** — *Junior System Administrator*
+  - Linux administration, remote infrastructure (Termius, PuTTY, RealVNC, VMware), and Bash scripting.
+- **Computer Engineer** — *Adamson University (BSCpE)*
+  - Embedded systems, IoT architecture (ESP32, Arduino, C++), and hardware prototyping.
+- **Full-Stack Developer**
+  - Modern web applications using Next.js, SvelteKit, React, TypeScript, and Supabase.
+
+---
+
+### 🚀 Projects
 
 - **[Monetigia](https://github.com/keanguzon/monetigia)** — Personal finance tracker with multi-account ledgers, debt preview, and net worth overview. *(Next.js, Supabase, Tailwind CSS)* · [Live](https://monetigia.vercel.app)
 - **[CSE Reviewer](https://github.com/keanguzon/cse-mock-reviewer)** — Civil Service Exam mock reviewer with instant feedback and progress analytics. *(SvelteKit, TypeScript, Supabase)* · [Live](https://cse-mock-reviewer.vercel.app)
 - **[Project Hellmerry](https://github.com/keanguzon/project-hellmerry)** — Ebook library and flipbook reader with OAuth and PDF rendering. *(Next.js, Supabase)* · [Live](https://project-hellmerry.vercel.app)
 - **[Parcel Safe](https://github.com/keanguzon/Ard-IDE)** — *Thesis:* IoT smart motorcycle cargo box with GPS, solenoid locks, and OTP authentication. *(ESP32, C++)*
 - **Automatic Pet Feeder** — Scheduled dispensing with Arduino C++ firmware and a C# desktop GUI.
-
----
-
-#### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keanguzon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=34d399&text_color=94a3b8" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanguzon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="150" />
-</p>
 
 ---
 
