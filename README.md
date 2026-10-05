@@ -1,11 +1,3 @@
-### Hi, I'm Kean 👋
-
-Junior System Administrator at Wilcon Depot & Computer Engineering graduate from Adamson University. Based in Cavite, Philippines.
-
-I work across Linux systems administration, embedded hardware, and full-stack web applications.
-
----
-
 #### 💼 What I'm Doing
 - 🏢 **Junior System Administrator** @ Wilcon Depot (Head Office)
   - Linux administration, remote infrastructure (Termius, PuTTY, RealVNC, VMware), and Bash scripting.
